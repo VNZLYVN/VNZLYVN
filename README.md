@@ -9,7 +9,7 @@
   - My Discord Server: [VNZDEV.tm Project Hub](https://discord.gg/KXye7w6J2g) - This is a public discord server but you can find me there.
   ---
   ###  A Day in the Life of Software Engineer:
-  👨‍💻 I’m working with Indonesian television companies since 2019 to be part of[PT Trans Media Corpora] (transtv.co.id) 
+  👨‍💻 I’m working with Indonesian television companies since 2019 to be part of [PT Trans Media Corpora](https://id.wikipedia.org/wiki/Trans_Media) 
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
